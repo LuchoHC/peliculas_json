@@ -29,6 +29,34 @@
             "categoria": "Drama",
             "descripcion": "Forrest Gump, un joven sureño, tenaz e inocente, es protagonista de acontecimientos cruciales en la historia de los Estados Unidos."
         },{
+            "nombre": "Baby Driver",
+            "imagen": "https://i.blogs.es/73fae2/baby/1366_2000.jpeg",
+            "duracion": "1 hora, 55 minutos",
+            "año": "2017",
+            "categoria": "Acción",
+            "descripcion": "Baby es un chofer especializado en fugas que, enamorado, pretende dejar la vida criminal y empezar de cero con la mujer que ama. Cuando el jefe de una banda de gánsters le obliga a trabajar para él y la operación fracasa, su vida y la de su chica pasan a estar en peligro."
+        },{
+            "nombre": "Us",
+            "imagen": "https://noticiaspueblabla.com/wp-content/uploads/2019/03/noticias_puebla_boletin_gallifrey_us_01.jpg",
+            "duracion": "2 horas, 1 minuto",
+            "año": "2019",
+            "categoria": "Terror",
+            "descripcion": "Adelaide y su esposo viajan a la casa en la que ella creció junto a la playa. Tiene un presentimiento siniestro que precede a un encuentro espeluznante: cuatro enmascarados se presentan ante su casa. Lo aterrador viene cuando muestran sus rostros."
+        },{
+            "nombre": "Birdman",
+            "imagen": "https://images.alphacoders.com/608/thumb-1920-608356.jpg",
+            "duracion": "2 horas",
+            "año": "2014",
+            "categoria": "Drama",
+            "descripcion": "Un actor pasado de moda, que triunfó en el pasado encarnando a un superhéroe, intenta recuperar la gloria perdida montando una obra en Broadway."
+        },{
+            "nombre": "Her",
+            "imagen": "https://indexmovie.net/img/tt1798709/backdrop_tt1798709.jpg",
+            "duracion": "2 horas, 6 minutos",
+            "año": "2013",
+            "categoria": "Romance",
+            "descripcion": "En Los Ángeles, un escritor desanimado desarrolla una especial relación amorosa con el sistema operativo de su computadora, una intuitiva y sensible entidad llamada Samantha."
+        },{
             "nombre": "Shrek 2",
             "imagen": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/17/28/18367006.jpg",
             "duracion": "1 hora, 45 minutos",
@@ -64,13 +92,6 @@
             "categoria": "Acción",
             "descripcion": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo."
         },{
-            "nombre": "Her",
-            "imagen": "https://indexmovie.net/img/tt1798709/backdrop_tt1798709.jpg",
-            "duracion": "2 horas, 6 minutos",
-            "año": "2013",
-            "categoria": "Romance",
-            "descripcion": "En Los Ángeles, un escritor desanimado desarrolla una especial relación amorosa con el sistema operativo de su computadora, una intuitiva y sensible entidad llamada Samantha."
-        },{
             "nombre": "Fight Club",
             "imagen": "https://3.bp.blogspot.com/-a0P-FhiYBWk/WWAo7is-ZoI/AAAAAAAAGUg/2sSmV3h4U1cmrSGfMryvLGorubUX4FyRgCLcBGAs/s1600/how-fight-club-became-the-bible-of-mens-rights-activists-and-puas-body-image-1483626608.jpg",
             "duracion": "2 horas, 31 minutos",
@@ -85,29 +106,8 @@
             "categoria": "Terror",
             "descripcion": "Una pareja de estadounidenses acude con unos amigos a Midsommar, un festival de verano que se celebra cada 90 años en una aldea remota de Suecia. Sin embargo, lo que parecían ser unas vacaciones de ensueño toma un giro macabro cuando los aldeanos los invitan a participar en sus perturbadoras actividades festivas."
         },{
-            "nombre": "Baby Driver",
-            "imagen": "https://i.blogs.es/73fae2/baby/1366_2000.jpeg",
-            "duracion": "1 hora, 55 minutos",
-            "año": "2017",
-            "categoria": "Acción",
-            "descripcion": "Baby es un chofer especializado en fugas que, enamorado, pretende dejar la vida criminal y empezar de cero con la mujer que ama. Cuando el jefe de una banda de gánsters le obliga a trabajar para él y la operación fracasa, su vida y la de su chica pasan a estar en peligro."
-        },{
-            "nombre": "Us",
-            "imagen": "https://noticiaspueblabla.com/wp-content/uploads/2019/03/noticias_puebla_boletin_gallifrey_us_01.jpg",
-            "duracion": "2 horas, 1 minuto",
-            "año": "2019",
-            "categoria": "Terror",
-            "descripcion": "Adelaide y su esposo viajan a la casa en la que ella creció junto a la playa. Tiene un presentimiento siniestro que precede a un encuentro espeluznante: cuatro enmascarados se presentan ante su casa. Lo aterrador viene cuando muestran sus rostros."
-        },{
-            "nombre": "Birdman",
-            "imagen": "https://images.alphacoders.com/608/thumb-1920-608356.jpg",
-            "duracion": "2 horas",
-            "año": "2014",
-            "categoria": "Drama",
-            "descripcion": "Un actor pasado de moda, que triunfó en el pasado encarnando a un superhéroe, intenta recuperar la gloria perdida montando una obra en Broadway."
-        },{
             "nombre": " The Simpsons Movie",
-            "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/10/simpsons-pelicula.jpg",
+            "imagen": "https://www.laguiadelvaron.com/wp-content/uploads/2019/07/matt-groening-nueva-pel%C3%ADcula-simpson-www.laguiadelvaron-1.jpg",
             "duracion": "1 hora, 28 minutos",
             "año": "2007",
             "categoria": "Comedia",
