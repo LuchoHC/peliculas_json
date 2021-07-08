@@ -78,19 +78,19 @@
             "categoria": "Ciencia ficción",
             "descripcion": "Tras salir victoriosos en los juegos del hambre, Katniss Everdeen y Peeta Mellark emprenden el tour de la victoria. Katniss cree que se está gestando una rebelión, pero un cruel cambio en las reglas del próximo torneo podría cambiar Panem."
         },{
-            "nombre": "Parasite",
-            "imagen": "https://images.wallpapersden.com/image/download/parasite-movie-poster_a25la2eUmZqaraWkpJRmbmdlrWZlbWU.jpg",
-            "duracion": "2 horas, 12 minutos",
-            "año": "2019",
-            "categoria": "Suspenso",
-            "descripcion": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles."
-        },{
             "nombre": "Avengers: Infinity War",
             "imagen": "https://i.pinimg.com/originals/85/cc/4d/85cc4d346626abe86503490e1ff1351d.jpg",
             "duracion": "2 horas, 40 minutos",
             "año": "2018",
             "categoria": "Acción",
             "descripcion": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo."
+        },{
+            "nombre": "Parasite",
+            "imagen": "https://www.ochoymedio.net/wp-content/uploads/2020/01/parasite_981_14350012_type13168.jpg",
+            "duracion": "2 horas, 12 minutos",
+            "año": "2019",
+            "categoria": "Suspenso",
+            "descripcion": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles."
         },{
             "nombre": "Shrek 2",
             "imagen": "https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/XZS3RQQDCNF67BM2OQGROIH5N4.jpg",
