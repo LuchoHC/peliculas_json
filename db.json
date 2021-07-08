@@ -2,7 +2,7 @@
     "peliculas" :[
         {
             "nombre": "The Perks of Being a Wallflower",
-            "imagen": "https://media1.fdncms.com/stranger/imager/u/original/25516975/film-wallflower-570.jpg",
+            "imagen": "https://images7.alphacoders.com/824/thumb-1920-824519.jpg",
             "duracion": "1 hora, 45 minutos",
             "año": "2012",
             "categoria": "Drama",
@@ -16,7 +16,7 @@
             "descripcion": "Dos estudiantes se dan cuenta de que deberían haber estudiado menos, por lo que tratan de recuperan los cuatro años de diversión perdidos en una alocada noche."
         },{
             "nombre": "Harry Potter (1-8 peliculas)",
-            "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/P6ZRBZBHXJIELPU5Y5XSOZMHO4.jpg",
+            "imagen": "https://indiehoy.com/wp-content/uploads/2019/02/harry-potter-and-the-deathly-hallows.jpg",
             "duracion": "19 horas, 46 min.",
             "año": "2001 - 2011",
             "categoria": "Fantasía",
