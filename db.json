@@ -1,0 +1,117 @@
+{
+    "peliculas" :[
+        {
+            "nombre": "The Perks of Being a Wallflower",
+            "imagen": "https://media1.fdncms.com/stranger/imager/u/original/25516975/film-wallflower-570.jpg",
+            "duracion": "1 hora, 45 minutos",
+            "año": "2012",
+            "categoria": "Drama",
+            "descripcion": "Charlie es un joven socialmente torpe y siempre está viendo la vida desde la barrera, hasta que dos estudiantes carismáticos se convierten en sus mentores. Sam y su hermanastro Patrick ayudan a Charlie a descubrir las alegrías de la amistad, el primer amor, la música y mucho más, mientras que un maestro provoca que él sueñe con ser un escritor. Sin embargo, mientras sus nuevos amigos se preparan para ir a la universidad, su tristeza interior amenaza con destruir su confianza."
+        },{
+            "nombre": "Booksmart",
+            "imagen": "https://i1.wp.com/movienetworkpr.com/wp-content/uploads/2019/05/booksmart_web2.jpg",
+            "duracion": "1 hora, 45 minutos",
+            "año": "2019",
+            "categoria": "Comedia",
+            "descripcion": "Dos estudiantes se dan cuenta de que deberían haber estudiado menos, por lo que tratan de recuperan los cuatro años de diversión perdidos en una alocada noche."
+        },{
+            "nombre": "Harry Potter (1-8 peliculas)",
+            "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/P6ZRBZBHXJIELPU5Y5XSOZMHO4.jpg",
+            "duracion": "19 horas, 46 min.",
+            "año": "2001 - 2011",
+            "categoria": "Fantasía",
+            "descripcion": "Harry Potter es una serie de películas basada en las novelas homónimas de J. K. Rowling. La serie es distribuida por Warner Bros. y consta de ocho películas de fantasía, comenzando con Harry Potter y la piedra filosofal y culminando con Harry Potter y las Reliquias de la Muerte - Parte 2."
+        },{
+            "nombre": "Forrest Gump",
+            "imagen": "https://gamerheadquarters.com/movies/images/screenshots/indie/forrestgump1.jpg",
+            "duracion": "2 horas,22 minutos",
+            "año": "1994",
+            "categoria": "Drama",
+            "descripcion": "Forrest Gump, un joven sureño, tenaz e inocente, es protagonista de acontecimientos cruciales en la historia de los Estados Unidos."
+        },{
+            "nombre": "Shrek 2",
+            "imagen": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/35/17/28/18367006.jpg",
+            "duracion": "1 hora, 45 minutos",
+            "año": "2004",
+            "categoria": "Comedia",
+            "descripcion": "En esta ocasión, Shrek debe enfrentarse al mayor de los problemas que se podía imaginar: conocer a sus suegros."
+        },{
+            "nombre": "Knives Out",
+            "imagen": "https://i1.wp.com/wipy.tv/wp-content/uploads/2020/02/Secuela-de-Knives-Out-ya-esta%CC%81-en-desarrollo.jpg?fit=1000%2C600&ssl=1",
+            "duracion": "2 horas, 10 minutos",
+            "año": "2019",
+            "categoria": "Misterio",
+            "descripcion": "Benoit Blanc, un detective implacable, investiga la muerte de un anciano escritor de novelas policíacas en la mansión del difunto. Benoit tendrá que sortear las trampas y mentiras que la excéntrica familia y los sirvientes del novelista han urdido."
+        },{
+            "nombre": "The Hunger Games: Catching Fire",
+            "imagen": "https://cdn.suwalls.com/wallpapers/movies/katniss-everdeen-the-hunger-games-catching-fire-24791-1920x1080.jpg",
+            "duracion": "2 horas, 26 minutos",
+            "año": "2013",
+            "categoria": "Ciencia ficción",
+            "descripcion": "Tras salir victoriosos en los juegos del hambre, Katniss Everdeen y Peeta Mellark emprenden el tour de la victoria. Katniss cree que se está gestando una rebelión, pero un cruel cambio en las reglas del próximo torneo podría cambiar Panem."
+        },{
+            "nombre": "Parasite",
+            "imagen": "https://images.wallpapersden.com/image/download/parasite-movie-poster_a25la2eUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+            "duracion": "2 horas, 12 minutos",
+            "año": "2019",
+            "categoria": "Suspenso",
+            "descripcion": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a impartir clases particulares en la adinerada casa de los Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, entablan una relación de resultados imprevisibles."
+        },{
+            "nombre": "Avengers: Infinity War",
+            "imagen": "https://img.redbull.com/images/c_crop,w_1620,h_1080,x_143,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2018/04/23/e4a3d8a5-2c44-480a-b300-1b2b03e205a5/avengers-infinity-war-poster",
+            "duracion": "2 horas, 40 minutos",
+            "año": "2018",
+            "categoria": "Acción",
+            "descripcion": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo."
+        },{
+            "nombre": "Her",
+            "imagen": "https://indexmovie.net/img/tt1798709/backdrop_tt1798709.jpg",
+            "duracion": "2 horas, 6 minutos",
+            "año": "2013",
+            "categoria": "Romance",
+            "descripcion": "En Los Ángeles, un escritor desanimado desarrolla una especial relación amorosa con el sistema operativo de su computadora, una intuitiva y sensible entidad llamada Samantha."
+        },{
+            "nombre": "Fight Club",
+            "imagen": "https://3.bp.blogspot.com/-a0P-FhiYBWk/WWAo7is-ZoI/AAAAAAAAGUg/2sSmV3h4U1cmrSGfMryvLGorubUX4FyRgCLcBGAs/s1600/how-fight-club-became-the-bible-of-mens-rights-activists-and-puas-body-image-1483626608.jpg",
+            "duracion": "2 horas, 31 minutos",
+            "año": "1999",
+            "categoria": "Drama",
+            "descripcion": "Un empleado de oficina insomne, harto de su vida, se cruza con un vendedor peculiar. Ambos crean un club de lucha clandestino como forma de terapia y, poco a poco, la organización crece y sus objetivos toman otro rumbo."
+        },{
+            "nombre": "Midsommar",
+            "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/midsommar-boceto-ari-aster-reina-mayo-florence-pugh-1578559323.jpg",
+            "duracion": "2 horas, 18 minutos",
+            "año": "2019",
+            "categoria": "Terror",
+            "descripcion": "Una pareja de estadounidenses acude con unos amigos a Midsommar, un festival de verano que se celebra cada 90 años en una aldea remota de Suecia. Sin embargo, lo que parecían ser unas vacaciones de ensueño toma un giro macabro cuando los aldeanos los invitan a participar en sus perturbadoras actividades festivas."
+        },{
+            "nombre": "Baby Driver",
+            "imagen": "https://i.blogs.es/73fae2/baby/1366_2000.jpeg",
+            "duracion": "1 hora, 55 minutos",
+            "año": "2017",
+            "categoria": "Acción",
+            "descripcion": "Baby es un chofer especializado en fugas que, enamorado, pretende dejar la vida criminal y empezar de cero con la mujer que ama. Cuando el jefe de una banda de gánsters le obliga a trabajar para él y la operación fracasa, su vida y la de su chica pasan a estar en peligro."
+        },{
+            "nombre": "Us",
+            "imagen": "https://noticiaspueblabla.com/wp-content/uploads/2019/03/noticias_puebla_boletin_gallifrey_us_01.jpg",
+            "duracion": "2 horas, 1 minuto",
+            "año": "2019",
+            "categoria": "Terror",
+            "descripcion": "Adelaide y su esposo viajan a la casa en la que ella creció junto a la playa. Tiene un presentimiento siniestro que precede a un encuentro espeluznante: cuatro enmascarados se presentan ante su casa. Lo aterrador viene cuando muestran sus rostros."
+        },{
+            "nombre": "Birdman",
+            "imagen": "https://images.alphacoders.com/608/thumb-1920-608356.jpg",
+            "duracion": "2 horas",
+            "año": "2014",
+            "categoria": "Drama",
+            "descripcion": "Un actor pasado de moda, que triunfó en el pasado encarnando a un superhéroe, intenta recuperar la gloria perdida montando una obra en Broadway."
+        },{
+            "nombre": " The Simpsons Movie",
+            "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/10/simpsons-pelicula.jpg",
+            "duracion": "1 hora, 28 minutos",
+            "año": "2007",
+            "categoria": "Comedia",
+            "descripcion": "La combinación de Homero, su nuevo puerco mascota, y un silo lleno de excremento podrían provocar un desastre que amenace no solo a Springfield, sino al mundo entero. Una muchedumbre enojada llega a la casa de los Simpson y divide a la familia. Con el destino de la Tierra en juego, Homero se prepara para intentar redimirse con la intención de salvar al mundo y ganarse el perdón de Marge."
+        }
+    ]
+}
